@@ -1,4 +1,4 @@
-# MinimalEndpointDefinitions
+# ChrisMavrommatis.MinimalEndpointDefinitions
 
 `ChrisMavrommatis.MinimalEndpointDefinitions` is a .NET Package aimed to provide the Endpoint pattern in your projects by using Definitions and Minimal Endpoints behind the scenes.
 

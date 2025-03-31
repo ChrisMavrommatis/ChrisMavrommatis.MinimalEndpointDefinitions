@@ -8,9 +8,9 @@
 		<Title>ChrisMavrommatis.MinimalEndpointDefinitions</Title>
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 		<Authors>Chris Mavrommatis</Authors>
-		<PackageProjectUrl>https://github.com/ChrisMavrommatis/MinimalEndpointDefinitions</PackageProjectUrl>
-		<RepositoryUrl>https://github.com/ChrisMavrommatis/MinimalEndpointDefinitions</RepositoryUrl>
-		<Version>2.0.1</Version>
+		<PackageProjectUrl>https://github.com/ChrisMavrommatis/ChrisMavrommatis.MinimalEndpointDefinitions</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/ChrisMavrommatis/ChrisMavrommatis.MinimalEndpointDefinitions</RepositoryUrl>
+		<Version>2.0.2</Version>
 		<PackageIcon>package-icon.png</PackageIcon>
 		<AssemblyName>ChrisMavrommatis.MinimalEndpointDefinitions</AssemblyName>
 		<PackageReadmeFile>README.md</PackageReadmeFile>

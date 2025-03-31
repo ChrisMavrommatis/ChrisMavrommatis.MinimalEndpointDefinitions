@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # 17
 VisualStudioVersion = 17.11.35111.106
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimalEndpointDefinitions", "src\MinimalEndpointDefinitions\MinimalEndpointDefinitions.csproj", "{F3C18861-7BD7-4501-BB26-60AEF0437F3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChrisMavrommatis.MinimalEndpointDefinitions", "src\ChrisMavrommatis.MinimalEndpointDefinitions\ChrisMavrommatis.MinimalEndpointDefinitions.csproj", "{F3C18861-7BD7-4501-BB26-60AEF0437F3D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{840A8436-6F78-4065-AAFC-34BA65BC26DB}"
 EndProject
