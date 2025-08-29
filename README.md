@@ -2,7 +2,7 @@
 
 `ChrisMavrommatis.MinimalEndpointDefinitions` is a .NET Package aimed to provide the Endpoint pattern in your projects by using Definitions and Minimal Endpoints behind the scenes.
 
-> [!WARNING
+> [!WARNING]
 > This project is no longer maintained.
 
 The project aims to provide with utilities that will make your API structure look like this
